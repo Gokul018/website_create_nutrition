@@ -5,4 +5,4 @@ Pillow
 protobuf~=3.19.0
 watchdog==2.1.8
 setuptools
-altair>=4.0.0
+altair
